@@ -17,8 +17,8 @@ if(num > 10) {
 }
 console.log(slogan(12));
 
-for( x = 1; x <= 10; x++) {
-  if( x % 2 == 0) {
-    console.log(x);
+for( i= 1; i <= 10; i++) {
+  if( i % 2 == 0) {
+    console.log(i);
   }
 }
