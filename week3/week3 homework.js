@@ -30,14 +30,14 @@ function getPizzaOrder(size, crust, ...toppings) {
 
 //Create a preparePizza function that
 //has an array as its parameter with three items: a size, a crust, and a list of toppings
-function preparePizza(crust,size,...toppings) {
-let total = "Cooking Pizza";
-  for (let order of preparePizza) {
-    total += order;
-    console.log(order);
-    return order;
-  }
-console.log(preparePizza());
+function preparePizza(large,thin,ham) {
+ console.log('...Cooking pizza...');
+ let servePizza = preparePizza;
+ return servePizza;
+
+}
+console.log(preparePizza('large','thin','ham'));
+
 //prints something like "...Cooking pizza..."
 //outputs a pizza Object with appropriate key-value pairs for size, crust, and toppings
 //Create a servePizza function that
@@ -45,6 +45,6 @@ console.log(preparePizza());
 //has a parameter of a pizza Object
 //logs a message that the pizza is ready and repeats the order, i.e. "Order up! Here's your large thick crust pizza with x, y, z, ... Enjoy!"
 //outputs the same pizza Object that was passed
- function servePizza(large, thin, ham){
+
 
 //Call each function and (starting with preparePizza) use the returned value from the previous function as its input
