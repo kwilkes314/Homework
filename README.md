@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Kendall Wilkes. I am 27 years old and  I have a 3 year old son. Some of my hobbies includE swimming, reading, writing and playing video games.  Ive been interested in technology since a child, that along side music and my child are some of my greatest loves in life. My goals for this 12 week bootcamp are
+My name is Kendall Wilkes. I am 27 years old and  I have a 3 year old son. Some of my hobbies include swimming, reading, writing and playing video games.  Ive been interested in technology since a child, that along side music and my child are some of my greatest loves in life. My goals for this 12 week bootcamp are
 
 
 1. Break into tech
