@@ -105,6 +105,7 @@ Dislikes: Having to use the cover letter skip function every time| some screens 
 
 Working Nomads
 
+
 Likes: Minimalistic color-coded categorization| subscription
 
 Dislikes: No organization| Unlimited scroll wheel Cheap look
@@ -112,6 +113,42 @@ Dislikes: No organization| Unlimited scroll wheel Cheap look
 My Site
 
 My site will be different by providing a minimalist page design with a professional design and a streamlined experience
+
+## Fonts
+
+Yantramanav
+
+## Website Colors
+
+1. Purple
+2 .Black
+3. White
+
+##API'S
+
+Open Weather Api
+Text-to-speech Api
+
+## Wifreframes
+
+[Excalidraw!](https://excalidraw.com/#json=71J5e8hQu8zbIGgpRe74z,3bNYPOYz2PjxXFsQ1jXHPw)
+
+## Flowchart
+
+[Google!](https://drive.google.com/file/d/1b6JiS56txEj078Bj2aqyzxAW_9X-ct-K/view?usp=sharing)
+
+## Picures
+
+![Alt Text](./imgs/code%20snippet%202.png)
+![Alt Text](./imgs/code%20snippet.png)
+
+
+
+
+
+
+
+
 
 
 
