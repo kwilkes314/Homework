@@ -39,7 +39,85 @@ Connecting motivated people who want to break into tech with employers.
 ## Story Map(Mural)
 [Mural!](https://app.mural.co/t/capstone2524/m/capstone2524/1679936968517/cbf1e90834ccb0f93d8e129a7830a283917bbaf8?sender=uac231e01ca441a47f5ae9024)
 
-##
+## SWOT ANALYSIS
+
+
+
+
+### Strengths
+
+Its going to be coming from someone who has been through the process.
+
+Website will be free no subscription or income-withholding.
+Most people will likely pay $0 for bootcamps.
+
+Can study competitor's strengths and weaknesses.
+
+
+
+
+
+
+### Weakness
+
+Obscurity
+
+Small development team low overhead
+
+Lacking business connections
+
+
+
+
+
+
+
+### Opportunities
+
+Can plan more features make more robust.
+
+Can pull in a highly underserved and valued market
+.
+Can view competitors strengths and weaknesses to use against them.
+Find our niche.
+
+
+
+
+
+### Threats
+
+Lack of in house funding for marketing.
+
+Knowledge can quickly become outdated.
+
+Website isnt quite the one stop shop as opposed to some competitiors.
+
+## Research
+
+### Resources
+
+Indeed:
+
+
+
+Dislikes: Having to use the cover letter skip function every time| some screens are “busy”
+
+Working Nomads
+
+Likes: Minimalistic color-coded categorization| subscription
+
+Dislikes: No organization| Unlimited scroll wheel Cheap look
+
+My Site
+
+My site will be different by providing a minimalist page design with a professional design and a streamlined experience
+
+
+
+
+
+
 
 
 
