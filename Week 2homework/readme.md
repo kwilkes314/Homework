@@ -131,7 +131,7 @@ Text-to-speech Api
 
 ## Wifreframes
 
-[Excalidraw!](https://excalidraw.com/#json=VQntWSSYZCGvLMrg9wQWr,KhHmK7d0Cr8oZy2DZeSajg)
+[Excalidraw!](https://excalidraw.com/#json=ViGytYMJbTUshuTVBt3lY,seQXaWxXqcBriQGUzC0_MA)
 
 ## Flowchart
 
