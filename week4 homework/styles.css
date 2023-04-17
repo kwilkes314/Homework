@@ -1,0 +1,44 @@
+* {background: purple;
+  bo-decoration: underline;
+    margin-left: 5%;
+  }
+  main.section {
+    border: 2px black solid;
+    margin: 5px 0px
+  }
+
+  #favPlaces
+  s{
+  }
+  #favLanguages {
+
+  }
+
+  .section > ol > li {
+    background-color: rgb(83, 162, 230);
+    padding: .33em;
+    margin-right: 75%;
+  }
+  .section > ol > li:hover {
+    background-color: blue;
+
+  }
+  .section > ul > li:hover {
+    background-color: blue;
+
+  }
+  .section > ul > li {
+    background-color: rgb(83, 162, 230);
+    margin {
+    background-color: blue;
+  }
+  h1, h3 {
+    text-right: 75%;
+    padding: .33em;
+  }
+
+  p{
+    margin-left: 2.5%;
+
+  }
+
