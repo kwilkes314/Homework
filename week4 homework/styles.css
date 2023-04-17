@@ -1,6 +1,5 @@
 * {background: purple;
-  bo-decoration: underline;
-    margin-left: 5%;
+
   }
   main.section {
     border: 2px black solid;
@@ -29,16 +28,18 @@
   }
   .section > ul > li {
     background-color: rgb(83, 162, 230);
-    margin {
     background-color: blue;
   }
-  h1, h3 {
-    text-right: 75%;
-    padding: .33em;
-  }
+
+
 
   p{
     margin-left: 2.5%;
+
+  }
+  img{
+    height: auto;
+    margin: auto;
 
   }
 
