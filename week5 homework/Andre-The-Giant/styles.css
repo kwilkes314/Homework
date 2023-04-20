@@ -1,0 +1,49 @@
+*{
+  background-color: green;
+}
+html {
+  background-color: antiquewhite;
+
+}
+
+body {
+  text-align: center;
+  font-size: 15px;
+
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  height: 100%;
+}
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+}
+
+#introPic {
+  float: left;
+}
+
+#bio {
+  float: right;
+}
+#bio > li {
+  padding: 5px;
+  display: flex;
+  justify-content: baseline;
+  overflow: hidden;
+
+
+
+
+}
+
+#pro {
+  width: auto;
+}
+
