@@ -302,9 +302,9 @@ let indent =[
 ]
 
 let userThree = indent.filter( x => x.userId === 3)
-console.log(userThree)
+console.log(userThree);
 
 let completedTasks = userThree.filter(x => x.completed === false)
-console.log(completedTasks)
+console.log(completedTasks.length);
 
 
