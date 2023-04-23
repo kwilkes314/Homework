@@ -1,4 +1,4 @@
-[
+let indent =[
 {
   "userId": 1,
   "id": 1,
@@ -300,3 +300,11 @@
   "completed": true
 }
 ]
+
+let userThree = indent.filter( x => x.userId === 3)
+console.log(userThree)
+
+let completedTasks = userThree.filter(x => x.completed === false)
+console.log(completedTasks)
+
+
