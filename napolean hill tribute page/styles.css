@@ -1,0 +1,18 @@
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align:center;
+  font-family: verdana;
+
+}
+figcaption{
+  text-align: center;
+  font-family: verdana;
+}

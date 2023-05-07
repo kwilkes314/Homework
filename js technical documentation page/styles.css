@@ -1,0 +1,8 @@
+#nav-bar {
+  width: 45%;
+}
+@media (max-width: 760px) {
+  body {
+    backround-color: green;
+  }
+}
